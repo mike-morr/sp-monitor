@@ -49,5 +49,6 @@ API and processes the responses using Jil which is a fast JSON parser.
 
 - [x] Rollover logs daily (Untested, but is based on date and should work)
 - [ ] Log file cleanup
+- [ ] Test data cleanup
 - [ ] Ability to time anything other than creating a list item.
 
