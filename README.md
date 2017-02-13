@@ -47,7 +47,8 @@ API and processes the responses using Jil which is a fast JSON parser.
 
 ### Limitations
 
-- [x] Rollover logs daily
+- [x] Rollover logs daily (Untested, but is based on date and should work)
 - [ ] Log file cleanup
+- [ ] Test data cleanup
 - [ ] Ability to time anything other than creating a list item.
 - [ ] Other types of authentication (Currently only NTLM/Windows Claims supported)
