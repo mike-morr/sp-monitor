@@ -50,4 +50,4 @@ API and processes the responses using Jil which is a fast JSON parser.
 - [x] Rollover logs daily
 - [ ] Log file cleanup
 - [ ] Ability to time anything other than creating a list item.
-
+- [ ] Other types of authentication (Currently only NTLM/Windows Claims supported)
